@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 180px;
+    width: 180px;
+    border-radius: 20px;
+    border : 9px solid black;
+    margin: 8px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+ .a{
+    background-color:#f99b45;
+}
+ .b{
+    background-color: #d95980 ;
+}
+ .c{
+    background-color: #819ff9;
+}
+ .d{
+    background-color: #63aac0;
+}
+
+.flash{
+    background-color: aliceblue;
+}
